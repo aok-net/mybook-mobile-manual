@@ -1,7 +1,6 @@
 ## 画像のサンプル
 
 ![テスト](images/sample.png)
-![ホーム](images/home.png)
 
 # 目次
 
