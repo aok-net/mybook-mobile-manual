@@ -5,6 +5,7 @@
 ![設定](images/settings.png)
 ![サピエログイン画面](images/sapie_logon.png)
 ![サピエ](images/sapie.png)
+![図書検索](images/book_search.png)
 
 # 目次
 
