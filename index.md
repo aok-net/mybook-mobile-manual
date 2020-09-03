@@ -2,6 +2,7 @@
 
 ![テスト](images/sample.png)
 ![ホーム画面](images/home.png)
+![設定](images/settings.png)
 
 # 目次
 
