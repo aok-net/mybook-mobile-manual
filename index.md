@@ -4,6 +4,7 @@
 ![ホーム画面](images/home.png)
 ![設定](images/settings.png)
 ![サピエログイン画面](images/sapie_logon.png)
+![サピエ](images/sapie.png)
 
 # 目次
 
