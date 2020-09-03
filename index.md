@@ -9,6 +9,7 @@
 ![デイジー新着情報](images/new_daisy.png)
 ![検索結果一覧](images/search_result.png)
 ![ダウンロード画面](images/download.png)
+![タイトル 著者名 検索](images/title_author_search.png)
 
 # 目次
 
