@@ -6,6 +6,7 @@
 ![サピエログイン画面](images/sapie_logon.png)
 ![サピエ](images/sapie.png)
 ![図書検索](images/book_search.png)
+![デイジー新着情報](images/new_daisy.png)
 
 # 目次
 
