@@ -11,6 +11,7 @@
 ![ダウンロード画面](images/download.png)
 ![タイトル 著者名 検索](images/title_author_search.png)
 ![雑誌検索](images/magazine_search.png)
+![定期配信の項目](images/subscribe_item.png)
 
 # 目次
 
