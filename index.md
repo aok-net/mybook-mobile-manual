@@ -13,6 +13,7 @@
 ![雑誌検索](images/magazine_search.png)
 ![定期配信の項目](images/subscribe_item.png)
 ![雑誌検索のタイトル順](images/title_order.png)
+![雑誌検索のタイトル検索](images/title_search.png)
 
 # 目次
 
