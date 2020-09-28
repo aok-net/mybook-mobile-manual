@@ -5,7 +5,6 @@
 ![検索結果一覧](images/search_result.png)
 ![ダウンロード画面](images/download.png)
 ![定期配信の項目](images/subscribe_item.png)
-![雑誌検索のタイトル順](images/title_order.png)
 ![雑誌検索のタイトル検索](images/title_search.png)
 
 # 目次
@@ -83,6 +82,9 @@
 
 ### 新着順
 ### タイトル順
+
+![雑誌検索のタイトル順](images/title_order.png)
+
 ### タイトル検索
 ### 定期配信の登録
 
