@@ -2,18 +2,8 @@
 
 ![テスト](images/sample.png)
 ![ホーム画面](images/home.png)
-![設定](images/settings.png)
-![サピエログイン画面](images/sapie_logon.png)
-![サピエ](images/sapie.png)
-![図書検索](images/book_search.png)
-![デイジー新着情報](images/new_daisy.png)
 ![検索結果一覧](images/search_result.png)
 ![ダウンロード画面](images/download.png)
-![タイトル 著者名 検索](images/title_author_search.png)
-![雑誌検索](images/magazine_search.png)
-![定期配信の項目](images/subscribe_item.png)
-![雑誌検索のタイトル順](images/title_order.png)
-![雑誌検索のタイトル検索](images/title_search.png)
 
 # 目次
 
@@ -47,13 +37,17 @@
 <a name="content1"></a>
 <a href="#toc1">目次に戻る</a>
 
+![サピエ](images/sapie.png)
 
 ## 図書検索
+![図書検索](images/book_search.png)
 
 ### デイジー新着情報
 
 あたらしい図書を探せます。
 期間は「過去1週間」と「過去1ヶ月」から選べます。
+
+![デイジー新着情報](images/new_daisy.png)
 
 ### 人気のある順
 
@@ -71,6 +65,8 @@
 
 タイトル、著者名、キーワードから図書を検索できます。
 
+![タイトル 著者名 検索](images/title_author_search.png)
+
 ## 定期配信の新着
 
 雑誌検索から定期配信に登録した雑誌を一覧します。
@@ -80,16 +76,28 @@
 雑誌検索ができます。
 雑誌は、定期的に更新される図書のことを指し、定期配信を登録しておくことで新刊が出たときに自動で雑誌の一覧が更新されます。
 
+![雑誌検索](images/magazine_search.png)
+
 ### 新着順
 ### タイトル順
+
+![雑誌検索のタイトル順](images/title_order.png)
+
 ### タイトル検索
+
+![雑誌検索のタイトル検索](images/title_search.png)
+
 ### 定期配信の登録
 
 「月刊誌」「週刊誌」「その他、隔月刊、季刊誌、不定期刊誌」から選べます。
 
+![定期配信の項目](images/subscribe_item.png)
+
 ## サピエIDとパスワード
 サピエ図書館にログインするためのIDとパスワードをこの画面で入力します。
 ログインが完了すると、図書検索ページに移動します。
+
+![サピエログイン画面](images/sapie_logon.png)
 
 # ダウンロード図書
 <a name="content2"></a>
@@ -103,6 +111,8 @@
 # 設定
 <a name="content4"></a>
 <a href="#toc4">目次に戻る</a>
+
+![設定](images/settings.png)
 
 ## バックグラウンド再生
 
