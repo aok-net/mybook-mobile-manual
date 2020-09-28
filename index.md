@@ -4,7 +4,6 @@
 ![ホーム画面](images/home.png)
 ![検索結果一覧](images/search_result.png)
 ![ダウンロード画面](images/download.png)
-![定期配信の項目](images/subscribe_item.png)
 ![雑誌検索のタイトル検索](images/title_search.png)
 
 # 目次
@@ -89,6 +88,8 @@
 ### 定期配信の登録
 
 「月刊誌」「週刊誌」「その他、隔月刊、季刊誌、不定期刊誌」から選べます。
+
+![定期配信の項目](images/subscribe_item.png)
 
 ## サピエIDとパスワード
 サピエ図書館にログインするためのIDとパスワードをこの画面で入力します。
