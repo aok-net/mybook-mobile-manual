@@ -48,10 +48,11 @@
 ![図書検索](images/book_search.png)
 
 ### デイジー新着情報
-![デイジー新着情報](images/new_daisy.png)
 
 あたらしい図書を探せます。
 期間は「過去1週間」と「過去1ヶ月」から選べます。
+
+![デイジー新着情報](images/new_daisy.png)
 
 ### 人気のある順
 
