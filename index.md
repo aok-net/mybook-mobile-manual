@@ -4,7 +4,6 @@
 ![ホーム画面](images/home.png)
 ![設定](images/settings.png)
 ![サピエログイン画面](images/sapie_logon.png)
-![デイジー新着情報](images/new_daisy.png)
 ![検索結果一覧](images/search_result.png)
 ![ダウンロード画面](images/download.png)
 ![タイトル 著者名 検索](images/title_author_search.png)
@@ -51,6 +50,7 @@
 ![図書検索](images/book_search.png)
 
 ### デイジー新着情報
+![デイジー新着情報](images/new_daisy.png)
 
 あたらしい図書を探せます。
 期間は「過去1週間」と「過去1ヶ月」から選べます。
