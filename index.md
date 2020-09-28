@@ -4,7 +4,6 @@
 ![ホーム画面](images/home.png)
 ![設定](images/settings.png)
 ![サピエログイン画面](images/sapie_logon.png)
-![サピエ](images/sapie.png)
 ![図書検索](images/book_search.png)
 ![デイジー新着情報](images/new_daisy.png)
 ![検索結果一覧](images/search_result.png)
@@ -47,6 +46,7 @@
 <a name="content1"></a>
 <a href="#toc1">目次に戻る</a>
 
+![サピエ](images/sapie.png)
 
 ## 図書検索
 
