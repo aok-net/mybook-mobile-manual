@@ -98,6 +98,9 @@
 ![雑誌検索](images/magazine_search.png)
 
 ### 新着順
+
+雑誌の新着を一覧します。
+
 ### タイトル順
 
 ![雑誌検索のタイトル順](images/title_order.png)
