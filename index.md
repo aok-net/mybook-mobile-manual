@@ -2,7 +2,6 @@
 
 ![テスト](images/sample.png)
 ![ホーム画面](images/home.png)
-![設定](images/settings.png)
 ![検索結果一覧](images/search_result.png)
 ![ダウンロード画面](images/download.png)
 ![タイトル 著者名 検索](images/title_author_search.png)
@@ -104,6 +103,8 @@
 # 設定
 <a name="content4"></a>
 <a href="#toc4">目次に戻る</a>
+
+![設定](images/settings.png)
 
 ## バックグラウンド再生
 
