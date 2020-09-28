@@ -3,7 +3,6 @@
 ![テスト](images/sample.png)
 ![ホーム画面](images/home.png)
 ![設定](images/settings.png)
-![サピエログイン画面](images/sapie_logon.png)
 ![検索結果一覧](images/search_result.png)
 ![ダウンロード画面](images/download.png)
 ![タイトル 著者名 検索](images/title_author_search.png)
@@ -90,6 +89,8 @@
 ## サピエIDとパスワード
 サピエ図書館にログインするためのIDとパスワードをこの画面で入力します。
 ログインが完了すると、図書検索ページに移動します。
+
+![サピエログイン画面](images/sapie_logon.png)
 
 # ダウンロード図書
 <a name="content2"></a>
