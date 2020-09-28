@@ -4,7 +4,6 @@
 ![ホーム画面](images/home.png)
 ![検索結果一覧](images/search_result.png)
 ![ダウンロード画面](images/download.png)
-![雑誌検索のタイトル検索](images/title_search.png)
 
 # 目次
 
@@ -85,6 +84,9 @@
 ![雑誌検索のタイトル順](images/title_order.png)
 
 ### タイトル検索
+
+![雑誌検索のタイトル検索](images/title_search.png)
+
 ### 定期配信の登録
 
 「月刊誌」「週刊誌」「その他、隔月刊、季刊誌、不定期刊誌」から選べます。
