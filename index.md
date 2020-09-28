@@ -4,7 +4,6 @@
 ![ホーム画面](images/home.png)
 ![検索結果一覧](images/search_result.png)
 ![ダウンロード画面](images/download.png)
-![雑誌検索](images/magazine_search.png)
 ![定期配信の項目](images/subscribe_item.png)
 ![雑誌検索のタイトル順](images/title_order.png)
 ![雑誌検索のタイトル検索](images/title_search.png)
@@ -79,6 +78,8 @@
 ## 雑誌検索
 雑誌検索ができます。
 雑誌は、定期的に更新される図書のことを指し、定期配信を登録しておくことで新刊が出たときに自動で雑誌の一覧が更新されます。
+
+![雑誌検索](images/magazine_search.png)
 
 ### 新着順
 ### タイトル順
