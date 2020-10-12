@@ -15,7 +15,7 @@
 <body>
   <script>
     window.onload = function () {
-      document.querySelectorAll('img').forEach(function (img) {
+      document.querySelectorAll('.screen-shot').forEach(function (img) {
         // Bootstrap.cssのスタイルをロード時に適用してます。
         // imgタグ全部につけているので、このimgには付けたくないみたいな要望があれば別の方法が必要。
         // このスタイル自体が不要な場合削除してOK
@@ -23,6 +23,15 @@
       })
     }
   </script>
+  <header>
+    <nav class="navbar navbar-light bg-light" style="display: flex;justify-content: center">
+      <a class="navbar-brand" href="#">
+        <img class="" src="images/ksd.png" width="30" height="30" class="d-inline-block align-top" alt="">
+        マイブックモバイル マニュアル
+      </a>
+    </nav>
+  </header>
+  <div class="container mt-3">
 
   <div class="container">
     <section>
@@ -81,7 +90,7 @@
         <p>サピエ事務局への利用申し込みについては、<a href="https://www.sapie.or.jp/">サピエのサイト</a>をご覧ください。</p>
         <p>※マイブック モバイルのサピエ閲覧機能は、サピエ事務局のご協力により完成いたしました。この場を借りて、お礼申し上げます。</p>
         <p>最初の一覧には、「図書検索」「定期配信の新着」「雑誌検索」「サピエIDとパスワード」があります。</p>
-        <img src="images/sapie_library.png" alt="サピエ図書館の項目一覧です。">
+        <p><img class="screen-shot" src="images/sapie_library.png" alt="サピエ図書館の項目一覧です。"></p>
         <br>
       </section>
 
@@ -93,9 +102,9 @@
         <p>IDとパスワードを入力していただくとログインができたかダイアログに表示されます。</p>
         <p>ログインが出来たらダイアログの「閉じる」を選択していただいて、サピエ図書館画面に移動できます。</p>
         <p>ログイン成功</p>
-        <img src="images/logon_success.png" alt="ログイン成功時のダイアログの画像です。「ログインできました　引き続きデイジー図書をお楽しみ下さい」と表示されます。">
+        <p><img class="screen-shot" src="images/logon_success.png" alt="ログイン成功時のダイアログの画像です。「ログインできました　引き続きデイジー図書をお楽しみ下さい」と表示されます。"></p>
         <p>ログイン失敗</p>
-        <img src="images/logon_faild.png" alt="ログイン失敗時のダイアログの画像です。「ログインできませんでした　サピエIDとパスワードをお確かめください」と表示されます。">
+        <p><img class="screen-shot" src="images/logon_faild.png" alt="ログイン失敗時のダイアログの画像です。「ログインできませんでした　サピエIDとパスワードをお確かめください」と表示されます。"></p>
         <br>
       </section>
 
@@ -103,7 +112,7 @@
         <h2 id="%E5%9B%B3%E6%9B%B8%E6%A4%9C%E7%B4%A2">図書検索</h2>
         <p>様々な種類の図書を検索できます。</p>
         <p>「デイジー新着情報」「人気のある順」「分類別」「前回の検索結果一覧」「タイトル 著者名 検索」があります。</p>
-        <img src="images/book_search.png" alt="図書検索の項目一覧の画像です。">
+        <p><img class="screen-shot" src="images/book_search.png" alt="図書検索の項目一覧の画像です。"></p>
         <br>
 
         <section>
@@ -115,13 +124,13 @@
             <p>ダウンロード方法については、図書検索の「図書をダウンロードしよう」をご参照ください。</p>
             <img src="images/new_daisy.png" alt="デイジー新着情報の項目の画像です。">
           </section>
-          
+
           <section>
             <h4>人気のある順</h4>
             <p>人気のある本の上位100位が一覧されます。</p>
             <p>ダウンロード方法については、図書検索の「図書をダウンロードしよう」をご参照ください。</p>
           </section>
-          
+
           <section>
             <h4>分類別</h4>
             <p>「文学」や「哲学・心理・宗教」をはじめ、多くの分類からお選びいただけます。</p>
@@ -129,7 +138,7 @@
             <p>1ページの検索結果は50件を上限としています。</p>
             <p>ダウンロード方法については、図書検索の「図書をダウンロードしよう」をご参照ください。</p>
           </section>
-          
+
           <section>
             <h4>タイトル 著者名 検索</h4>
             <p>タイトル・著者名やキーワードを絞り込むことができます。</p>
@@ -158,7 +167,7 @@
             <br>
           </section>
         </section>
-        
+
         <section>
           <h3>図書をダウンロードしよう</h3>
           <p>一覧の中からダウンロードしたい図書を選択します。</p>
@@ -179,7 +188,7 @@
         <p>雑誌とは、定期的に更新される図書のことを指し、定期配信を登録しておくことで新刊が出たときに自動で雑誌の一覧が更新されます。</p>
         <p>雑誌検索には、「新着順」「タイトル順」「タイトル検索」「定期配信の登録」「定期配信の削除」があります。</p>
         <br>
-        
+
         <section>
           <h3>雑誌を検索しよう</h3>
           <section>
@@ -188,7 +197,7 @@
             <p>ダウンロード方法については、図書検索の「図書をダウンロードしよう」をご参照ください。</p>
             <br>
           </section>
-          
+
           <section>
             <h4>タイトル順</h4>
             <p>「月刊誌」「週刊誌」「その他、隔月刊、季刊誌、不定期刊誌」があります。</p>
@@ -196,7 +205,7 @@
             <p>ダウンロード方法ついては、図書検索の「図書をダウンロードしよう」をご参照ください。</p>
             <br>
           </section>
-          
+
           <section>
             <h4>タイトル検索</h4>
             <p>タイトルを絞り込むことができます。</p>
@@ -217,14 +226,14 @@
             <br>
           </section>
         </section>
-        
+
         <section>
           <h3>定期配信の雑誌を読もう</h3>
           <p>「雑誌検索」内の「定期配信の登録」から登録を行うことで、雑誌の定期配信を受け取ることができます。</p>
           <p>登録した雑誌は、「サピエ図書館」内の、「定期配信の新着」からダウンロードすることができます。</p>
           <p>ダウンロード方法については、図書検索の「図書をダウンロードしよう」をご参照ください。</p>
           <br>
-          
+
           <section>
             <h4>定期配信の登録</h4>
             <p>「月刊誌」「週刊誌」「その他、隔月刊、季刊誌、不定期刊誌」の中からお選びいただけます。</p>
@@ -233,7 +242,7 @@
             <p>登録は30件まで可能です。上限に達すると登録できなくなるので、「定期配信の解除」から登録を解除してください。</p>
             <br>
           </section>
-          
+
           <section>
             <h4>定期配信の解除</h4>
             <p>「月刊誌」「週刊誌」「その他、隔月刊、季刊誌、不定期刊誌」のうち、登録されている項目のみ表示されます。</p>
@@ -372,7 +381,6 @@
       <h1 id="%E8%A8%AD%E5%AE%9A">設定</h1>
       <p><a name="content4"></a>
         <a href="#toc4">目次に戻る</a></p>
-        
       <h2 id="%E3%83%90%E3%83%83%E3%82%AF%E3%82%B0%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89%E5%86%8D%E7%94%9F">バックグラウンド再生
       </h2>
 
@@ -382,11 +390,16 @@
       <h2 id="dropbox%E3%81%A8%E9%80%A3%E6%90%BA">Dropboxと連携</h2>
       <p>Dropboxと連携して、クラウドストレージに保存したデイジー図書を楽しむことができます。
         機能を利用するには、Dropboxのアカウントが必要です。</p>
-        
+
       <h2 id="%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E6%83%85%E5%A0%B1">バージョン情報</h2>
       <p>アプリのバージョンを確認できます。</p>
     </section>
   </div>
+  <footer class="mt-3 bg-dark text-light fixed-bottom">
+    <div class="copy-right text-center">
+      Copyright© Kochi System Development. All rights reserved.
+    </div>
+  </footer>
 </body>
 
 </html>
